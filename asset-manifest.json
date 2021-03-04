@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Naruto_money/static/css/main.ce85c347.chunk.css",
+    "main.js": "/Naruto_money/static/js/main.090b4f16.chunk.js",
+    "main.js.map": "/Naruto_money/static/js/main.090b4f16.chunk.js.map",
+    "runtime-main.js": "/Naruto_money/static/js/runtime-main.3cfe73b3.js",
+    "runtime-main.js.map": "/Naruto_money/static/js/runtime-main.3cfe73b3.js.map",
+    "static/js/2.3af81913.chunk.js": "/Naruto_money/static/js/2.3af81913.chunk.js",
+    "static/js/2.3af81913.chunk.js.map": "/Naruto_money/static/js/2.3af81913.chunk.js.map",
+    "static/js/3.db47d2b8.chunk.js": "/Naruto_money/static/js/3.db47d2b8.chunk.js",
+    "static/js/3.db47d2b8.chunk.js.map": "/Naruto_money/static/js/3.db47d2b8.chunk.js.map",
+    "index.html": "/Naruto_money/index.html",
+    "static/css/main.ce85c347.chunk.css.map": "/Naruto_money/static/css/main.ce85c347.chunk.css.map",
+    "static/js/2.3af81913.chunk.js.LICENSE.txt": "/Naruto_money/static/js/2.3af81913.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cfe73b3.js",
+    "static/js/2.3af81913.chunk.js",
+    "static/css/main.ce85c347.chunk.css",
+    "static/js/main.090b4f16.chunk.js"
+  ]
+}
